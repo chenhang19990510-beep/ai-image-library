@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1440" viewBox="0 0 1080 1440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7efe7"/>
+      <stop offset="50%" stop-color="#e8d7c3"/>
+      <stop offset="100%" stop-color="#c9a789"/>
+    </linearGradient>
+    <linearGradient id="dress" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#c7a889"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1440" fill="url(#bg)"/>
+  <rect x="70" y="70" width="940" height="1300" rx="54" fill="rgba(255,255,255,0.28)" stroke="#ffffff" stroke-width="4"/>
+  <text x="540" y="160" text-anchor="middle" font-size="58" font-family="Arial, sans-serif" fill="#4c3728" font-weight="700">AI FASHION POSTER</text>
+  <text x="540" y="220" text-anchor="middle" font-size="32" font-family="Arial, sans-serif" fill="#6b4e3b">法式通勤 · 成熟女性穿搭测试图</text>
+  <circle cx="540" cy="430" r="115" fill="#f0c9ad"/>
+  <path d="M455 410 Q540 300 625 410 Q600 345 540 345 Q480 345 455 410" fill="#5c3f2f"/>
+  <path d="M380 590 Q540 500 700 590 L790 1040 Q540 1160 290 1040 Z" fill="url(#dress)" stroke="#6b4e3b" stroke-width="5"/>
+  <path d="M410 590 Q540 650 670 590" fill="none" stroke="#6b4e3b" stroke-width="5"/>
+  <path d="M395 690 L685 690" stroke="#ffffff" stroke-width="10" opacity="0.6"/>
+  <path d="M350 770 L730 770" stroke="#ffffff" stroke-width="8" opacity="0.5"/>
+  <text x="540" y="1220" text-anchor="middle" font-size="46" font-family="Arial, sans-serif" fill="#4c3728" font-weight="700">Minimal Chic</text>
+  <text x="540" y="1282" text-anchor="middle" font-size="30" font-family="Arial, sans-serif" fill="#6b4e3b">GitHub Link → Notion Child Page</text>
+  <text x="540" y="1335" text-anchor="middle" font-size="24" font-family="Arial, sans-serif" fill="#7a5a44">Test created by ChatGPT automation flow</text>
+</svg>

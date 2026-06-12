@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6eee8"/>
+      <stop offset="55%" stop-color="#e7d3c5"/>
+      <stop offset="100%" stop-color="#c7a99a"/>
+    </linearGradient>
+    <linearGradient id="dress" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="50%" stop-color="#f1d8cd"/>
+      <stop offset="100%" stop-color="#b8776e"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="20" stdDeviation="28" flood-color="#6d4b43" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#bg)"/>
+  <circle cx="860" cy="260" r="210" fill="#ffffff" opacity="0.22"/>
+  <circle cx="180" cy="1490" r="260" fill="#ffffff" opacity="0.18"/>
+  <text x="90" y="150" font-family="Georgia, serif" font-size="58" fill="#4a302b" letter-spacing="4">FASHION POSTER</text>
+  <text x="90" y="215" font-family="Arial, sans-serif" font-size="30" fill="#7a574f" letter-spacing="8">FRENCH VINTAGE DRESS</text>
+  <g filter="url(#shadow)">
+    <ellipse cx="540" cy="1680" rx="250" ry="45" fill="#5f403a" opacity="0.22"/>
+    <circle cx="540" cy="465" r="92" fill="#f1c9b7"/>
+    <path d="M472 440 C485 350 600 345 620 430 C600 385 505 390 472 440Z" fill="#3d2c2a"/>
+    <path d="M455 560 C500 610 585 610 625 560 L690 850 C650 900 430 900 390 850 Z" fill="#f7efe9"/>
+    <path d="M420 810 C380 1040 310 1280 260 1600 C370 1690 710 1690 820 1600 C760 1280 705 1040 660 810 C590 875 485 875 420 810Z" fill="url(#dress)"/>
+    <path d="M390 650 C310 760 280 880 300 1010" fill="none" stroke="#f1c9b7" stroke-width="44" stroke-linecap="round"/>
+    <path d="M690 650 C770 760 800 880 780 1010" fill="none" stroke="#f1c9b7" stroke-width="44" stroke-linecap="round"/>
+    <path d="M470 880 C505 945 575 945 610 880" fill="none" stroke="#7e4e48" stroke-width="16" stroke-linecap="round" opacity="0.65"/>
+    <path d="M405 1020 C500 1075 600 1075 680 1020" fill="none" stroke="#ffffff" stroke-width="10" opacity="0.45"/>
+    <path d="M372 1220 C500 1285 625 1280 735 1210" fill="none" stroke="#ffffff" stroke-width="8" opacity="0.35"/>
+  </g>
+  <rect x="90" y="1735" width="900" height="2" fill="#4a302b" opacity="0.3"/>
+  <text x="90" y="1805" font-family="Arial, sans-serif" font-size="38" fill="#4a302b" font-weight="700">法式复古连衣裙</text>
+  <text x="90" y="1860" font-family="Arial, sans-serif" font-size="26" fill="#6f4e47">高级商业海报风 · Notion 插图测试</text>
+</svg>
